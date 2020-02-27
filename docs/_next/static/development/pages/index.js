@@ -879,7 +879,7 @@ function (_React$Component) {
         __self: this
       }), __jsx("link", (_jsx = {
         rel: "stylesheet",
-        href: "/css/all.min.css"
+        href: "all.min.css"
       }, Object(_babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_0__["default"])(_jsx, "rel", "stylesheet"), Object(_babel_runtime_corejs2_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_0__["default"])(_jsx, "__source", {
         fileName: _jsxFileName,
         lineNumber: 21
@@ -30972,7 +30972,7 @@ var Home = function Home() {
 
 /***/ }),
 
-/***/ 11:
+/***/ 0:
 /*!***********************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fakonopka%2FDocuments%2FGitHub%2Fva-next-ToopLabs%2Fpages%2Findex.js ***!
   \***********************************************************************************************************************************************/
@@ -30995,5 +30995,5 @@ module.exports = dll_e9ad7d891b372a4221cf;
 
 /***/ })
 
-},[[11,"static/runtime/webpack.js","styles"]]]);
+},[[0,"static/runtime/webpack.js","styles"]]]);
 //# sourceMappingURL=index.js.map
